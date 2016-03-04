@@ -1,2 +1,2 @@
 # hello-world
-First try to' use GitHub
+First try to use GitHub
